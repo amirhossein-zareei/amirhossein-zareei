@@ -1,0 +1,10 @@
+
+<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .normal { font: bold 32px sans-serif; fill: black; }
+    .highlight { fill: red; }
+  </style>
+  <text x="30" y="60" class="normal">
+    Hi there! I'm <tspan class="highlight">Amirhossein</tspan>
+  </text>
+</svg>
