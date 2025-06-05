@@ -1,4 +1,4 @@
-<img src="./images/upscalemedia-transformed.png" align="center"  alt="Character"/>
+<img src="./images/Backend Development.gif" align="center"  alt="Character"/>
 
 ### <img src="./icons/Technologist.png"  width="25"/>About Me:
 
@@ -6,6 +6,7 @@
 - 🌱 I’m learning Amazon S3, Cloudinary and
 - 🧠 My tech stack: Node.js, Express, MongoDB
 
+---
  
  ### <img src="./icons/Hammer and Wrench.png" alt="Tech Stack Icon" width="25" style="vertical-align: middle; margin-bottom: 10px" />Tech Stack: 
 
@@ -22,6 +23,7 @@
   <a><img src="./icons/postman.svg" alt="Postman" style="width:50px;" /></a>
 </p>
 
+---
  
 ### <img src="./icons/connect.png" alt="Connect Icon" width="25" style="vertical-align: middle; margin-bottom: 10px" />Connect Me: 
 <p align="left" style="margin-left: 35px; display:flex; justify-content: start; flex-wrap: wrap; gap: 7px;">
@@ -33,7 +35,9 @@
   </a>
 </p>
 
-
+```javascript
+                      console.log("Thank you for visiting")
+```
 
 /// لینک پالت: https://colorhunt.co/palette/f9ed69f08a5db83b5e6a2c70 
 // سایت ساخت بنر: https://leviarista.github.io/github-profile-header-generator/
