@@ -2,9 +2,11 @@
 
 ### <img src="./icons/Technologist.png"  width="25"/>About Me:
 
-- 🔭 I’m currently working on a perfume e-
-- 🌱 I’m learning Amazon S3, Cloudinary and
-- 🧠 My tech stack: Node.js, Express, MongoDB
+I specialize in backend development with **Node.js** and **Express.js**, and I'm experienced in working with databases like **MongoDB** and **MySQL**, as well as tools like **Sequelize** and **Cloudinary**. I have a strong passion for designing clean APIs, implementing layered architecture, and building systems that are both maintainable and scalable.
+
+Currently, I'm developing personal projects, including an **online perfume shop** that features a seller-customer communication system. My focus is on combining robust business logic with a seamless user experience.
+
+I am committed to continuous growth, both in my technical skillset and my professional mindset. I believe programming is more than just a job; it's a journey of creating the future we envision.
 
 ---
  
@@ -33,13 +35,14 @@
   <a href="https://t.me/amirhosseinzareei2004">
     <img src="./icons/telegram.svg" alt="Telegram" style="width:50px;" />
   </a>
+  <a href="mailto:amirhossein2004zareei@gmail.com">
+    <img src="./icons/gmail.png" alt="Gmail" style="width:50px;" />
+  </a>
 </p>
 
-```javascript
-                      console.log("Thank you for visiting")
-```
+<div align="center">
 
-/// لینک پالت: https://colorhunt.co/palette/f9ed69f08a5db83b5e6a2c70 
-// سایت ساخت بنر: https://leviarista.github.io/github-profile-header-generator/
-// سایت بالا بردن کیفیت عکس: https://www.upscale.media/upload
-// سایت دانلود ایکون: https://iconscout.com/3d-illustrations/
+```javascript
+console.log("Thank you for visiting");
+```
+</div>
